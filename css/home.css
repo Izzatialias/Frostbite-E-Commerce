@@ -1,0 +1,87 @@
+.slideshow_section{
+	height: 100%;
+	width: 100%;
+}
+.section1{
+	padding: 50px;
+	text-align: center;
+}
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 10px
+}
+.cakes:hover{
+	opacity:0.5;
+}
+.icecream:hover{
+	opacity:0.5;
+}
+.baverage:hover{
+	opacity:0.5;
+}
+.row{
+  display: flex;
+  padding: 40px;
+  margin:0;
+}
+.info{
+	font-family:Bahnschrift SemiBold Condensed;
+	color:black;
+	font-size: 20px;
+}
+.hot{
+	display: flex;
+    padding: 40px;
+    margin:0;
+}
+
+.mint{
+	padding:80px;
+    float: left;
+    width: 33.33%;
+    padding: 10px
+}
+.testimoni1{
+  padding:80px;
+  float: left;
+  width: 33.33%;
+  padding: 10px
+}
+.testimoni{
+  display: flex;
+  padding: 40px;
+  margin:0;
+}
+.location{
+    margin:0;
+	display: flex;
+	padding: 30px;
+}
+.detail{
+    margin:0;
+	width:2000px;
+	padding: 0;
+	justify-content: center;
+}
+.button{
+	background-color: black;
+    color: white;
+    padding: 10px 60px;
+    text-align: center;
+    display: inline-block;
+	margin: 5px;
+	transition: all .5s ease;
+    text-decoration: none;		  
+}
+.button a{
+	color:white;
+}
+.button a:hover{
+	color:black;
+}
+.button:hover{
+    background-color: #BA1141;
+	box-shadow: 0 0 10px black;
+    
+}

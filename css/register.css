@@ -1,0 +1,23 @@
+.contain{
+	display:flex;
+	text-align:center;
+	justify-content: center;
+}
+.button{
+	background-color: black;
+    padding: 10px 180px;
+    text-align: center;
+    display: inline-block;
+	margin: 5px;
+	transition: all .5s ease;
+	color:white;
+	font-family: BR Firma;
+	
+}
+form {
+	background-color:white;
+	opacity:0.9; 
+	padding:30px; 
+	border-radius:20px;
+	margin-top:60px;
+}
